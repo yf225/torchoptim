@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
     setup(
         name="torchoptim",
-        version=os.environ.get("VERSION"),
+        version='0.0.1',
         author="Alpa team",
         author_email="",
         description="torchoptim",
